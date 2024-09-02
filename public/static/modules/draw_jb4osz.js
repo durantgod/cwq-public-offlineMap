@@ -1,0 +1,1 @@
+_jsload2&&_jsload2('draw', 'function Ag(){}var Bg=Ag.prototype;Bg.IF=u();Bg.Ao=function(){aa("addLine\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};Bg.setAttribute=function(){aa("setAttribute\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};Bg.ke=function(){aa("setPath\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};Bg.ip=w("Mb");B.jz=Ag; ');
